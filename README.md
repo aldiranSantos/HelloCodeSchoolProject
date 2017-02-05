@@ -1,5 +1,7 @@
 # Hello Code School
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b1858c65a36e49c78dab539205b37d39)](https://www.codacy.com/app/aldiranSantos/HelloCodeSchoolProject?utm_source=github.com&utm_medium=referral&utm_content=aldiranSantos/HelloCodeSchoolProject&utm_campaign=badger)
+
 This is a sample project to test out how projects work at Code School. For this project, you'll be creating a basic website using HTML. If you want to deploy it to a real website, we'll even walkthrough how to do that!
 
 # Getting Started
